@@ -1,0 +1,27 @@
+
+body{
+    background: rgb(105, 173, 173);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Roboto', sans-serif;
+}
+.header_div{
+    background-color: rgb(21, 118, 118);
+    color: rgb(166, 37, 37);
+  
+}
+.header_div p{
+    font-style: oblique;
+    font-stretch: expanded;
+}
+.main_div{
+    background-color: rgb(105, 173, 173);
+    color: rgb(109, 51, 51);
+}
+
+.main_div #start{
+    background-color: rgb(12, 53, 53);
+    color: rgb(176, 138, 138);
+}
+copy_right_footer{
+font-size: 11;
+}
